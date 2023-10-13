@@ -1,0 +1,16 @@
+[package]
+name = "push_mut"
+edition = "2021"
+version = "0.1.0"
+authors = ["Dmitrii Demenev <demenev.dmitriy1@gmail.com>"]
+description = "Push a value to the back of the vector, and return a mutable reference to it."
+documentation = "https://docs.rs/push_mut"
+readme = "README.md"
+keywords = [
+    "push",
+    "mut",
+    "back",
+]
+categories = ["rust-patterns"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/JohnScience/push_mut"
